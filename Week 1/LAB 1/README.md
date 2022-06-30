@@ -19,4 +19,6 @@ Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 
+
+1. Adeomi Bukola and Afolabi Smart worked on this project 
  
