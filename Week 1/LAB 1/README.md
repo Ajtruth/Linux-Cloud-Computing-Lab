@@ -20,4 +20,7 @@ Quickstart for Bash in Azure Cloud Shell
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
 
 
+i did lunch it 
+
+
  
